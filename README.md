@@ -62,10 +62,8 @@ AWS Lambda: For serverless computing and automating tasks on AWS.
 <div>
 <img src="https://img.shields.io/badge/-AWS%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Office%20Specialist-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+    </div>
 
 ## Projects
 - Detection Lab
