@@ -1,10 +1,7 @@
 # Hello, I'm Rahel
 <a href="https://linkedin.com/in/rahelgebissa2018"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am Experienced in data analysis, dashboard development, and data transformation, with a background in dual enrollment analytics and asset inventory management projects.
-
-a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I am an experienced Data Analyst and BI Developer with a strong foundation in data analysis, dashboard development, and data transformation, complemented by a background in Computer Science. Driven by a profound interest in technology, I am dedicated to solving complex problems and leveraging data insights to support informed, strategic decision-making.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
