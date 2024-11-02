@@ -16,6 +16,26 @@ Detail-oriented Data Analyst with over a year of experience in analytics, bringi
 | Technical Proficiency: Power BI, Tableau      | <a href="https://google.com">Detection Lab</a>|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+1. Data Analysis and Visualization
+Power BI: Building and managing interactive dashboards, data transformation, and visualization.
+Tableau: Data visualization and analytics for generating insights from large datasets.
+Excel: Advanced Excel functions like VLOOKUP, Pivot Tables, and data analysis.
+2. Database Management and Querying
+SQL: Querying, data manipulation, and database management.
+MySQL / PostgreSQL: Relational database management and SQL query execution.
+AWS RDS: Managing databases on AWS for scalable data solutions.
+3. Data Cleaning and Transformation
+Python (Pandas, NumPy): Data cleaning, manipulation, and processing for analysis.
+Power Query (Excel / Power BI): ETL (Extract, Transform, Load) processes, data transformation.
+SQL: Data cleansing and transformation within databases.
+5. Project Management and Collaboration
+Jira / Asana: Task and project management for tracking project progress.
+Microsoft Teams / Slack: Collaboration tools for remote teamwork and communication.
+GitHub / GitLab: Version control for tracking project changes and collaborating on code.
+6.Scripting and Automation
+Python: For data analysis, automation, and scripting tasks.
+VBA (Excel): For automating repetitive tasks within Excel.
+AWS Lambda: For serverless computing and automating tasks on AWS.
 
 ### Network
 <div>
