@@ -1,14 +1,14 @@
 # Hello, I'm Rahel
 <a href="https://linkedin.com/in/rahelgebissa2018"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am Experienced in data analysis, dashboard development, and data transformation, with a background in dual enrollment analytics and asset inventory management projects.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Detail-oriented Data Analyst with over a year of experience in analytics, bringing a strong foundation in data visualization, SQL, and Microsoft Excel, including advanced skills in VLOOKUP and Pivot Tables. Proven ability to extract actionable insights from data to drive business decisions. Skilled in remote work environments, consistently meeting deadlines and exceeding expectations. Holds certifications in Security+ and AWS Cloud Practitioner.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
