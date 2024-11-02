@@ -3,7 +3,7 @@
 
 I am an experienced Data Analyst and BI Developer with a strong foundation in data analysis, dashboard development, and data transformation, complemented by a background in Computer Science. Driven by a profound interest in technology, I am dedicated to solving complex problems and leveraging data insights to support informed, strategic decision-making.
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 Detail-oriented Data Analyst with over a year of experience in analytics, bringing a strong foundation in data visualization, SQL, and Microsoft Excel, including advanced skills in VLOOKUP and Pivot Tables. Proven ability to extract actionable insights from data to drive business decisions. Skilled in remote work environments, consistently meeting deadlines and exceeding expectations. Holds certifications in Security+ and AWS Cloud Practitioner.
 
@@ -12,13 +12,8 @@ Detail-oriented Data Analyst with over a year of experience in analytics, bringi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Data Analysis and & Reporting                 | <a href="https://google.com">Detection Lab</a>|
+| Technical Proficiency: Power BI, Tableau      | <a href="https://google.com">Detection Lab</a>|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
