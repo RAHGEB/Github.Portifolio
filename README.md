@@ -12,8 +12,8 @@ Detail-oriented Data Analyst with over a year of experience in analytics, bringi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Analysis and & Reporting                 | <a href="https://google.com">Detection Lab</a>|
-| Technical Proficiency: Power BI, Tableau      | <a href="https://google.com">Detection Lab</a>|
+| Data Analysis and & Reporting                 | <a href="https://google.com">Asset Inventory Managemnt Dashboard</a>|
+| Technical Proficiency: Power BI, Tableau      | <a href="https://google.com">Dual-Enrollment-Courses With Student Registration Dashboard</a>|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 1. Data Analysis and Visualization
@@ -66,5 +66,5 @@ AWS Lambda: For serverless computing and automating tasks on AWS.
     </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Asset Inventory Managemnt Dashboard
+- Dual-Enrollment-Courses With Student Registration Dashboard
