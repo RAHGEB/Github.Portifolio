@@ -8,7 +8,7 @@ I am an experienced Data Analyst and BI Developer with a strong foundation in da
 Detail-oriented Data Analyst with over a year of experience in analytics, bringing a strong foundation in data visualization, SQL, and Microsoft Excel, including advanced skills in VLOOKUP and Pivot Tables. Proven ability to extract actionable insights from data to drive business decisions. Skilled in remote work environments, consistently meeting deadlines and exceeding expectations. Holds certifications in Security+ and AWS Cloud Practitioner.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
